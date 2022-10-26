@@ -1,0 +1,45 @@
+*{
+    background-color: black;
+    color:white;
+}
+.small-img {
+    width: 500px;
+    height: auto;
+    border: 3px solid gold;
+    border-radius: 3px;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.info-box{
+    width: 300px;
+}
+
+.game{
+    border: 5px solid gold;
+    background-color: black;
+    color: white;
+    margin: 15px;
+    padding: 10px;
+    /* width: 1000px; */
+    border-radius: 5px;
+}
+
+.d-block {
+    display:block;
+}
+
+.center-text {
+    text-align: center;
+}
+.btn{
+    border: 2px solid gold;
+    color: gold;
+    background-color: blue;
+    padding: 5px;
+    border-radius: 4px;
+    box-shadow: 3px 3px gold;
+    margin: 20px 5px;
+}

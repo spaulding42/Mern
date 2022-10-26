@@ -1,0 +1,14 @@
+.btn {
+    background-color: lightblue;
+    padding: 5px;
+    margin:5px;
+    border-radius: 3px;
+}
+
+.padding{
+    padding:5px;
+}
+
+.bigfont {
+    font-size: large;
+}
